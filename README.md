@@ -40,6 +40,12 @@ npm install
 npm run dev
 ```
 
+### 4️⃣ Open in Browser
+Once the server is running, open your browser and go to:
+```
+http://localhost:5173
+```
+
 ## 🎯 Key Takeaways
 - Gained hands-on experience in **React.js** and **Firebase**.
 - Learned how to implement **real-time database interactions**.
